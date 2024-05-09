@@ -1,0 +1,164 @@
+.barlow-condensed-thin {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-thin-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-extralight {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-extralight-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-light {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-light-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-regular {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-regular-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-medium {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-medium-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-semibold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-semibold-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-bold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-bold-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-extrabold {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-extrabold-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-black {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-black-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+}
+body {
+    background-color: #E4BEAB
+
+}
+header {
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #eaf2d7;
+    color: #e27396;
+    ali  
+}
+
+.botoes{
+    display: flex;
+    font-size: 18px;
+    text-align: justify;
+}
+
+aside {
+    padding: 10px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header img{
+   height: 80px;    ;
+}
+aside img{
+    width: 100px;
+    height: 100px;
+}
+aside{
+    display: flex;
+
+}
+main{
+    padding: 15px;
+    display: contents;
+}
+aside img{
+    
+}
+header div{
+    justify-content: flex-start;
+}
+main aside{
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
